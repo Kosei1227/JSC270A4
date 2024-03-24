@@ -1,0 +1,165 @@
+/usr/local/lib/python3.10/dist-packages/torch/utils/checkpoint.py:460: UserWarning: torch.utils.checkpoint: please pass in use_reentrant=True or use_reentrant=False explicitly. The default value of use_reentrant will be updated to be False in the future. To maintain current behavior, pass use_reentrant=True. It is recommended that you use use_reentrant=False. Refer to docs for more details on the differences between the two variants.
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.float32 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+/usr/local/lib/python3.10/dist-packages/torch/utils/checkpoint.py:460: UserWarning: torch.utils.checkpoint: please pass in use_reentrant=True or use_reentrant=False explicitly. The default value of use_reentrant will be updated to be False in the future. To maintain current behavior, pass use_reentrant=True. It is recommended that you use use_reentrant=False. Refer to docs for more details on the differences between the two variants.
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.float32 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+/usr/local/lib/python3.10/dist-packages/torch/utils/checkpoint.py:460: UserWarning: torch.utils.checkpoint: please pass in use_reentrant=True or use_reentrant=False explicitly. The default value of use_reentrant will be updated to be False in the future. To maintain current behavior, pass use_reentrant=True. It is recommended that you use use_reentrant=False. Refer to docs for more details on the differences between the two variants.
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.float32 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+/usr/local/lib/python3.10/dist-packages/torch/utils/checkpoint.py:460: UserWarning: torch.utils.checkpoint: please pass in use_reentrant=True or use_reentrant=False explicitly. The default value of use_reentrant will be updated to be False in the future. To maintain current behavior, pass use_reentrant=True. It is recommended that you use use_reentrant=False. Refer to docs for more details on the differences between the two variants.
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.float32 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+/usr/local/lib/python3.10/dist-packages/torch/utils/checkpoint.py:460: UserWarning: torch.utils.checkpoint: please pass in use_reentrant=True or use_reentrant=False explicitly. The default value of use_reentrant will be updated to be False in the future. To maintain current behavior, pass use_reentrant=True. It is recommended that you use use_reentrant=False. Refer to docs for more details on the differences between the two variants.
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.float32 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+/usr/local/lib/python3.10/dist-packages/torch/utils/checkpoint.py:460: UserWarning: torch.utils.checkpoint: please pass in use_reentrant=True or use_reentrant=False explicitly. The default value of use_reentrant will be updated to be False in the future. To maintain current behavior, pass use_reentrant=True. It is recommended that you use use_reentrant=False. Refer to docs for more details on the differences between the two variants.
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.float32 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+/usr/local/lib/python3.10/dist-packages/torch/utils/checkpoint.py:460: UserWarning: torch.utils.checkpoint: please pass in use_reentrant=True or use_reentrant=False explicitly. The default value of use_reentrant will be updated to be False in the future. To maintain current behavior, pass use_reentrant=True. It is recommended that you use use_reentrant=False. Refer to docs for more details on the differences between the two variants.
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.float32 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+/usr/local/lib/python3.10/dist-packages/torch/utils/checkpoint.py:460: UserWarning: torch.utils.checkpoint: please pass in use_reentrant=True or use_reentrant=False explicitly. The default value of use_reentrant will be updated to be False in the future. To maintain current behavior, pass use_reentrant=True. It is recommended that you use use_reentrant=False. Refer to docs for more details on the differences between the two variants.
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.float32 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+/content/JSC270A4
+fatal: /content/jsc270_llama2_lora/checkpoint-31: '/content/jsc270_llama2_lora/checkpoint-31' is outside repository at '/content/JSC270A4'
+fatal: /content/jsc270_llama2_lora/checkpoint-62: '/content/jsc270_llama2_lora/checkpoint-62' is outside repository at '/content/JSC270A4'
+fatal: /content/jsc270_llama2_lora/checkpoint-93: '/content/jsc270_llama2_lora/checkpoint-93' is outside repository at '/content/JSC270A4'
+fatal: /content/jsc270_llama2_lora/checkpoint-125: '/content/jsc270_llama2_lora/checkpoint-125' is outside repository at '/content/JSC270A4'
+fatal: /content/jsc270_llama2_lora/checkpoint-156: '/content/jsc270_llama2_lora/checkpoint-156' is outside repository at '/content/JSC270A4'
+fatal: /content/jsc270_llama2_lora/checkpoint-187: '/content/jsc270_llama2_lora/checkpoint-187' is outside repository at '/content/JSC270A4'
+fatal: /content/jsc270_llama2_lora/checkpoint-218: '/content/jsc270_llama2_lora/checkpoint-218' is outside repository at '/content/JSC270A4'
+fatal: /content/jsc270_llama2_lora/checkpoint-248: '/content/jsc270_llama2_lora/checkpoint-248' is outside repository at '/content/JSC270A4'
+/content
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+/content/JSC270A4
+fatal: /content/jsc270_llama2_lora/checkpoint-31: '/content/jsc270_llama2_lora/checkpoint-31' is outside repository at '/content/JSC270A4'
+fatal: /content/jsc270_llama2_lora/checkpoint-62: '/content/jsc270_llama2_lora/checkpoint-62' is outside repository at '/content/JSC270A4'
+fatal: /content/jsc270_llama2_lora/checkpoint-93: '/content/jsc270_llama2_lora/checkpoint-93' is outside repository at '/content/JSC270A4'
+fatal: /content/jsc270_llama2_lora/checkpoint-125: '/content/jsc270_llama2_lora/checkpoint-125' is outside repository at '/content/JSC270A4'
+fatal: /content/jsc270_llama2_lora/checkpoint-156: '/content/jsc270_llama2_lora/checkpoint-156' is outside repository at '/content/JSC270A4'
+fatal: /content/jsc270_llama2_lora/checkpoint-187: '/content/jsc270_llama2_lora/checkpoint-187' is outside repository at '/content/JSC270A4'
+fatal: /content/jsc270_llama2_lora/checkpoint-218: '/content/jsc270_llama2_lora/checkpoint-218' is outside repository at '/content/JSC270A4'
+fatal: /content/jsc270_llama2_lora/checkpoint-248: '/content/jsc270_llama2_lora/checkpoint-248' is outside repository at '/content/JSC270A4'
+/content/JSC270A4
+fatal: Invalid path '/content/JSCC270A4': No such file or directory
+fatal: Invalid path '/content/JSCC270A4': No such file or directory
+fatal: Invalid path '/content/JSCC270A4': No such file or directory
+fatal: Invalid path '/content/JSCC270A4': No such file or directory
+fatal: Invalid path '/content/JSCC270A4': No such file or directory
+fatal: Invalid path '/content/JSCC270A4': No such file or directory
+fatal: Invalid path '/content/JSCC270A4': No such file or directory
+fatal: Invalid path '/content/JSCC270A4': No such file or directory
+[main f1c3831] Add checkpoints of LoRA fine-tuned model
+ 64 files changed, 4792 insertions(+)
+ create mode 100644 jsc270_llama2_lora/checkpoint-125/README.md
+ create mode 100644 jsc270_llama2_lora/checkpoint-125/adapter_config.json
+ create mode 100644 jsc270_llama2_lora/checkpoint-125/adapter_model.safetensors
+ create mode 100644 jsc270_llama2_lora/checkpoint-125/optimizer.pt
+ create mode 100644 jsc270_llama2_lora/checkpoint-125/rng_state.pth
+ create mode 100644 jsc270_llama2_lora/checkpoint-125/scheduler.pt
+ create mode 100644 jsc270_llama2_lora/checkpoint-125/trainer_state.json
+ create mode 100644 jsc270_llama2_lora/checkpoint-125/training_args.bin
+ create mode 100644 jsc270_llama2_lora/checkpoint-156/README.md
+ create mode 100644 jsc270_llama2_lora/checkpoint-156/adapter_config.json
+ create mode 100644 jsc270_llama2_lora/checkpoint-156/adapter_model.safetensors
+ create mode 100644 jsc270_llama2_lora/checkpoint-156/optimizer.pt
+ create mode 100644 jsc270_llama2_lora/checkpoint-156/rng_state.pth
+ create mode 100644 jsc270_llama2_lora/checkpoint-156/scheduler.pt
+ create mode 100644 jsc270_llama2_lora/checkpoint-156/trainer_state.json
+ create mode 100644 jsc270_llama2_lora/checkpoint-156/training_args.bin
+ create mode 100644 jsc270_llama2_lora/checkpoint-187/README.md
+ create mode 100644 jsc270_llama2_lora/checkpoint-187/adapter_config.json
+ create mode 100644 jsc270_llama2_lora/checkpoint-187/adapter_model.safetensors
+ create mode 100644 jsc270_llama2_lora/checkpoint-187/optimizer.pt
+ create mode 100644 jsc270_llama2_lora/checkpoint-187/rng_state.pth
+ create mode 100644 jsc270_llama2_lora/checkpoint-187/scheduler.pt
+ create mode 100644 jsc270_llama2_lora/checkpoint-187/trainer_state.json
+ create mode 100644 jsc270_llama2_lora/checkpoint-187/training_args.bin
+ create mode 100644 jsc270_llama2_lora/checkpoint-218/README.md
+ create mode 100644 jsc270_llama2_lora/checkpoint-218/adapter_config.json
+ create mode 100644 jsc270_llama2_lora/checkpoint-218/adapter_model.safetensors
+ create mode 100644 jsc270_llama2_lora/checkpoint-218/optimizer.pt
+ create mode 100644 jsc270_llama2_lora/checkpoint-218/rng_state.pth
+ create mode 100644 jsc270_llama2_lora/checkpoint-218/scheduler.pt
+ create mode 100644 jsc270_llama2_lora/checkpoint-218/trainer_state.json
+ create mode 100644 jsc270_llama2_lora/checkpoint-218/training_args.bin
+ create mode 100644 jsc270_llama2_lora/checkpoint-248/README.md
+ create mode 100644 jsc270_llama2_lora/checkpoint-248/adapter_config.json
+ create mode 100644 jsc270_llama2_lora/checkpoint-248/adapter_model.safetensors
+ create mode 100644 jsc270_llama2_lora/checkpoint-248/optimizer.pt
+ create mode 100644 jsc270_llama2_lora/checkpoint-248/rng_state.pth
+ create mode 100644 jsc270_llama2_lora/checkpoint-248/scheduler.pt
+ create mode 100644 jsc270_llama2_lora/checkpoint-248/trainer_state.json
+ create mode 100644 jsc270_llama2_lora/checkpoint-248/training_args.bin
+ create mode 100644 jsc270_llama2_lora/checkpoint-31/README.md
+ create mode 100644 jsc270_llama2_lora/checkpoint-31/adapter_config.json
+ create mode 100644 jsc270_llama2_lora/checkpoint-31/adapter_model.safetensors
+ create mode 100644 jsc270_llama2_lora/checkpoint-31/optimizer.pt
+ create mode 100644 jsc270_llama2_lora/checkpoint-31/rng_state.pth
+ create mode 100644 jsc270_llama2_lora/checkpoint-31/scheduler.pt
+ create mode 100644 jsc270_llama2_lora/checkpoint-31/trainer_state.json
+ create mode 100644 jsc270_llama2_lora/checkpoint-31/training_args.bin
+ create mode 100644 jsc270_llama2_lora/checkpoint-62/README.md
+ create mode 100644 jsc270_llama2_lora/checkpoint-62/adapter_config.json
+ create mode 100644 jsc270_llama2_lora/checkpoint-62/adapter_model.safetensors
+ create mode 100644 jsc270_llama2_lora/checkpoint-62/optimizer.pt
+ create mode 100644 jsc270_llama2_lora/checkpoint-62/rng_state.pth
+ create mode 100644 jsc270_llama2_lora/checkpoint-62/scheduler.pt
+ create mode 100644 jsc270_llama2_lora/checkpoint-62/trainer_state.json
+ create mode 100644 jsc270_llama2_lora/checkpoint-62/training_args.bin
+ create mode 100644 jsc270_llama2_lora/checkpoint-93/README.md
+ create mode 100644 jsc270_llama2_lora/checkpoint-93/adapter_config.json
+ create mode 100644 jsc270_llama2_lora/checkpoint-93/adapter_model.safetensors
+ create mode 100644 jsc270_llama2_lora/checkpoint-93/optimizer.pt
+ create mode 100644 jsc270_llama2_lora/checkpoint-93/rng_state.pth
+ create mode 100644 jsc270_llama2_lora/checkpoint-93/scheduler.pt
+ create mode 100644 jsc270_llama2_lora/checkpoint-93/trainer_state.json
+ create mode 100644 jsc270_llama2_lora/checkpoint-93/training_args.bin
+fatal: could not read Username for 'https://github.com': No such device or address
+Enumerating objects: 55, done.
+Counting objects: 100% (55/55), done.
+Delta compression using up to 12 threads
+Compressing objects:  74% (40/54)
+Compressing objects:  77% (42/54)
+Compressing objects:  79% (43/54)
+Compressing objects:  83% (45/54)
+Compressing objects:  85% (46/54)
+Compressing objects:  87% (47/54)
+Compressing objects:  88% (48/54)
+Compressing objects:  90% (49/54)
+Compressing objects:  92% (50/54)
+Compressing objects:  94% (51/54)
+Compressing objects: 100% (54/54), done.
+Compressing objects: 100% (54/54), done.
+Compressing objects: 100% (54/54), done.
+Compressing objects: 100% (54/54), done.
+Compressing objects: 100% (54/54), done.
+Compressing objects: 100% (54/54), done.
+Compressing objects: 100% (54/54), done.
+Compressing objects: 100% (54/54), done.
+Compressing objects: 100% (54/54), done.
+Compressing objects: 100% (54/54), done.
+Compressing objects: 100% (54/54), done.
+Compressing objects: 100% (54/54), done.
+Compressing objects: 100% (54/54), done.
+Compressing objects: 100% (54/54), done.
+Compressing objects: 100% (54/54), done.
+Compressing objects: 100% (54/54), done.
+Compressing objects: 100% (54/54), done.
